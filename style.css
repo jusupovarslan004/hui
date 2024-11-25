@@ -37,3 +37,6 @@
     background-color: red;
     transform: scale(1.5) rotate(360deg);
 }
+h1 {
+    color: red;
+}
